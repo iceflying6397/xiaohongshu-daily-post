@@ -1,0 +1,133 @@
+{
+  "character": "A｜圆润助手",
+  "standard": "标准参考/A-标准形象.png",
+  "items": [
+    {
+      "group": "角度",
+      "name": "正面",
+      "path": "角度/01-正面.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "角度",
+      "name": "左侧",
+      "path": "角度/02-左侧.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "角度",
+      "name": "右侧",
+      "path": "角度/03-右侧.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "角度",
+      "name": "背面",
+      "path": "角度/04-背面.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "角度",
+      "name": "左前四分之三",
+      "path": "角度/05-左前四分之三.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "角度",
+      "name": "右前四分之三",
+      "path": "角度/06-右前四分之三.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "开心",
+      "path": "表情/01-开心.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "思考",
+      "path": "表情/02-思考.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "疑惑",
+      "path": "表情/03-疑惑.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "惊讶",
+      "path": "表情/04-惊讶.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "难过",
+      "path": "表情/05-难过.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "表情",
+      "name": "得意",
+      "path": "表情/06-得意.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "招手",
+      "path": "动作/01-招手.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "讲解",
+      "path": "动作/02-讲解.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "指向",
+      "path": "动作/03-指向.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "看书",
+      "path": "动作/04-看书.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "写笔记",
+      "path": "动作/05-写笔记.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "group": "动作",
+      "name": "完成",
+      "path": "动作/06-完成.png",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "status": "18 张已完成并验收"
+}

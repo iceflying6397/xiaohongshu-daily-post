@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: project mascot candidate D, a single robot character design.
+Input image: style reference only. Preserve its charming simple 2D hand-drawn vector illustration feeling, bold dark navy outlines, cream white shell, pale blue accents and small orange details. Create a distinct new full-body robot design, not the cropped pose from the reference.
+Scene/backdrop: plain cream white background, square canvas about 1024×1024, generous clean negative space.
+Subject: one cute capsule assistant robot, centered, front-facing, standing upright, one hand gently lifted in a greeting, other arm relaxed. Head is a vertically oriented rounded oval, approximately 45% of total body height. Deep navy vertically oriented oval face screen, two small white vertical oval eyes and a small white smile. A short top antenna ends in a small orange oval. Very slim blue side ear plates. White capsule torso with a single small orange circular chest indicator. Short rounded arms and independent small feet. Slightly tall proportions but still cute and friendly. Clearly mechanical robot, not an egg, animal, astronaut or human.
+Style: simplified flat illustration with subtly hand-drawn lines and minimal soft highlights, cream white shell with light blue accents, crisp navy outlines, matching reference palette.
+Composition: exactly one complete character, head, antenna, arms and feet fully visible, calm balanced central pose, no other elements.
+Constraints: no props, no paper, no tools, no text, no lettering, no numbers, no labels, no decorations, no scene, no floating symbols, no multiple views, no panels, no photorealism or 3D rendering. Only the robot on plain cream background.

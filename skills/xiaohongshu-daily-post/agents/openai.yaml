@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书每日图文"
+  short_description: "按日期与安全序号，制作易懂的纯文字文案、对应生图提示词和完整配图"
+  default_prompt: "使用 $xiaohongshu-daily-post 在当前项目制作今天的一条小红书图文，主题是："

@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: project-wide small robot mascot candidate B, called 豆豆助手
+Primary request: Create one new robot mascot illustration. The provided image is a STYLE AND COLOR REFERENCE ONLY; do not copy its pose or its horizontally rounded rectangular head.
+Scene/backdrop: plain warm cream-white background.
+Subject: exactly one complete front-facing friendly little robot standing centered. Almost perfectly CIRCULAR large cream-white head, deep navy oval face screen, two small white dot eyes and one tiny white smiling mouth. Very short antenna with an orange ball at the top. Small blue ear panels. Short bean-shaped cream-white body, short rounded arms and tiny feet. One hand gently raised to wave, other arm relaxed. Head comprises about 55% of full character height; cute, soft, slightly bashful and easy to recognize. Clean simple consistent anatomy.
+Style/medium: simple polished 2D hand-drawn vector-like illustration, dark navy thick clean outlines, cream shell, pale blue secondary pieces, tiny orange accent. Match the reference illustration's soft friendly visual language and limited palette.
+Composition/framing: square canvas approximately 1024 x 1024, whole head, antenna, hands and feet all visible, centered standing character with generous negative space on every side.
+Constraints: single character only. No props, no paper, no lettering, no numbers, no badge, no scene, no decoration, no stars, no border, no watermark. Distinct circular head silhouette. Keep silhouette legible and uncomplicated. Not 3D.
